@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
+  <img width="1000" height="300" alt="image" src="./City Of Houston Pixel Art GIF by Coog Mania.gif" />
 </div>
 
 ## 📫 Let's Connect [My Tiktok](https://www.tiktok.com/@dr.gifter306) 
