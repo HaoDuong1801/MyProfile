@@ -1,15 +1,15 @@
 <div align="center">
   <img width="200" height="300" alt="Dr.Gifter Logo" src="https://github.com/user-attachments/assets/889120f1-785c-42b2-9d91-f4092dbb2380" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
-  <h2> Dr.Gifter <br> ✨ Just A Gift For You ✨</h2>
+  <h2> Hao Duong <br> ✨ Petroleum Engineering ✨</h2>
 </div>
 
-<div>
-  <img width="1000" height="300" alt="image" src="./City Of Houston Pixel Art GIF by Coog Mania.gif" />
-</div>
-
-## 📫 Let's Connect [My Tiktok](https://www.tiktok.com/@dr.gifter306) 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/80/78/a2/8078a2862bcb5e9041ffbc12f79f2bae.gif" alt="TikTok" width="90%" />
+  <img width="800" height="300" alt="image" src="./City Of Houston Pixel Art GIF by Coog Mania.gif"/>
+</div>
+
+## 📫 Let's Connect [My LinkedIn](https://www.linkedin.com/in/hao-duong-546970295/) 
+<div align="center">
+  <img src="./Haone.png" alt="" width="90%" />
 </div>
 
 ## 🛠️ Tool & Language
@@ -26,10 +26,10 @@
   margin-right: auto;
   width:70% ;
   grid-column: 1/-1;" 
-     src="https://github-readme-stats.vercel.app/api?username=CodeZui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" />
+     src="https://github-readme-stats.vercel.app/api?username=HaoDuong&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaoDuong&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
 
 <div align="center">
   <h2>⭐ VIỆT NAM ⭐</h2>
@@ -48,8 +48,3 @@
   </tr>
 </table>
 
-> Source Code: [Xem tại đây](https://github.com/CodeZui/Gift_VietNam.git)
-
-> Xem Demo: [Video Demo](https://www.tiktok.com/@dr.gifter306/video/7538409662778019079)
-
-> Viết tiếp câu chuyện hoà bình: [Video](https://www.tiktok.com/@dr.gifter306/video/7543707329859046664) 
