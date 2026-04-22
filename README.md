@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  A physics-based simulation platform for CO₂ transportation and injection networks, 
+  A physics-based simulatior for CO₂ transportation & injection networks, 
   integrating hydraulics, thermodynamics, and economic analysis.
 </p>
 
