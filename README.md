@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img width="900" height="300" alt="image" src="./City Of Houston Pixel Art GIF by Coog Mania.gif"/>
+  <img width="900" height="500" alt="image" src="./Hao.gif"/>
 </div>
 
 ## 📫 Let's Connect [My LinkedIn](https://www.linkedin.com/in/hao-duong-546970295/) 
