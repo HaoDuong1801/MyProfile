@@ -18,6 +18,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,dart,dotnet,flutter,vscode,github" />
 </div>
 
+## 🚀 Ongoing Project: CO₂ Pipeline Network Simulator
+
+<div align="center">
+  <img src="./your-image-name.png" alt="CO2 Network Simulator" width="95%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+</div>
+
+<p align="center">
+  A physics-based simulation platform for CO₂ transportation and injection networks, 
+  integrating hydraulics, thermodynamics, and economic analysis.
+</p>
+
 ## 📊GitHub Stats  
 
 <div align="center "> 
