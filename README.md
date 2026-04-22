@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="300" alt="Hao Logo" src="./Haoworking.png" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
+  <!-- <img width="200" height="300" alt="Hao Logo" src="./Haoworking.png" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" /> -->
   <h2> Hao Duong <br> ✨ Petroleum Engineering ✨</h2>
 </div>
 
@@ -15,7 +15,8 @@
 ## 🛠️ Tool & Language
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,dart,dotnet,flutter,vscode,github" />
+  <!-- <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,dart,dotnet,flutter,vscode,github" /> -->
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,vscode,github" />
 </div>
 
 ## 🚀 Ongoing Project: CO₂ Pipeline Network Simulator
